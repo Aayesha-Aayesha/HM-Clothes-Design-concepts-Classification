@@ -1,5 +1,5 @@
 # HM-Clothes-Design-concepts-Classification
-The aim of this work was to make categorisation of clothing items in an online store according to their style, so that customers could be facilitated in their online shopping.
+The aim of this work was to make categorisation of clothing items according to their styles in an online store, so that customers could be facilitated in their online shopping.
 
 This work conducted in following steps:
 1) Identify the key design concepts from the description of given clothing items by applying spacy-dbpedia-spotlight
