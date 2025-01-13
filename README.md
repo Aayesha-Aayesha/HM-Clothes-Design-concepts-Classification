@@ -8,5 +8,7 @@ Above approach was applied to the different types of clothing items.
 The approach implementation led to develop some filters in a web-based system of fashionable clothing items.
 The link of website is here: https://dev-fashionshopon.pantheonsite.io/welcome
 The empirical analyses conducted by the data of this website led to two publications that are following:
-1) Aayesha, A., Afzaal, M. and Neidhardt, J., 2024, June. User experience of recommender system: A user study of social-aware fashion recommendations system. In Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (pp. 356-361).
-2) Aayesha, A., Afzaal, M. and Neidhardt, J., 2024. Social Circle-Enhanced Fashion Recommendations System.
+
+   Aayesha, A., Afzaal, M. and Neidhardt, J., 2024, June. User experience of recommender system: A user study of social-aware fashion recommendations system. In Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (pp. 356-361).
+   
+   Aayesha, A., Afzaal, M. and Neidhardt, J., 2024. Social Circle-Enhanced Fashion Recommendations System.
